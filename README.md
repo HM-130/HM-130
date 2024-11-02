@@ -4,6 +4,7 @@
 - 😄 Pronouns: He/Him
 - I am looking to collaborate with other data science enthusiasts on open-source projects.
 - Im a beginner, and working hard to understand more!
+- My ambition is to go into a tech role one day. Let that be data science, software dev, cybersecurity or something else!
 
 <!---
 HM-130/HM-130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
