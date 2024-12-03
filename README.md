@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HM-130
 - 👀 I’m interested in anything computer science! I am on this platform to showcase my projects, and connect with other devs.
-- 🌱 I’m currently learning python for data science, with various libraries such as pandas and matplotlib (looking to expand). I use VSCode with Jupyter Notebooks.
+- 🌱 I'm currently learning python as part of GCSE Computer Science, and java in my own time.
 - 😄 Pronouns: He/Him
 - I am looking to collaborate with other data science enthusiasts on open-source projects.
-- Im a beginner, and working hard to understand more!
+- Im a beginner/intermediate, and working hard to understand more!
 - My ambition is to go into a tech role one day. Let that be data science, software dev, cybersecurity or something else!
 
 <!---
