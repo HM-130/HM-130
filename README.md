@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HM-130
 - 👀 I’m interested in anything computer science! I am on this platform to showcase my projects, and connect with other developers.
-- 🌱 I'm currently learning python as part of GCSE Computer Science, and java in my own time.
+- 🌱 I'm currently learning python as part of GCSE Computer Science, and frequently complete personal projects and learn new libraries and frameworks in my own time.
 - 😄 Pronouns: He/Him
 - I am looking to collaborate with other tech enthusiasts on open-source projects.
 - My ambition is to go into a tech role one day. Let that be data science, software dev, cybersecurity or something else!
