@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HM-130
-- 👀 I’m interested in anything computer science! I am on this platform to showcase my projects, and connect with other devs.
+- 👀 I’m interested in anything computer science! I am on this platform to showcase my projects, and connect with other developers.
 - 🌱 I'm currently learning python as part of GCSE Computer Science, and java in my own time.
 - 😄 Pronouns: He/Him
 - I am looking to collaborate with other tech enthusiasts on open-source projects.
